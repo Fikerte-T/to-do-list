@@ -1,7 +1,7 @@
 
 # To do list
 
-> One paragraph statement about the project.
+>In this project a to do list is created with webpack. An index.html file is created and set as a template using the html webpack plugin. An index.js file is set as an entry point and it also has a function that populates list items in the html file. Finally a css file with a set of ruls is loaded by webpack style/css loader. 
 
 ![screenshot](./app_screenshot.png)
 
