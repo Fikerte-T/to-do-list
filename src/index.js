@@ -1,7 +1,7 @@
 import './style.css';
-import {statusUpdate} from './statusUpdate.js';
+import statusUpdate from './statusUpdate.js';
 
-let tasks = [
+const tasks = [
   {
     description: 'complete to do list project',
     completed: false,
