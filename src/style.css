@@ -45,9 +45,12 @@ i:hover {
 
 input {
   outline: none;
-  font-style: italic;
   border: hidden;
   font-size: 15px;
+}
+
+#input {
+  font-style: italic;
 }
 
 .clear {
@@ -59,4 +62,12 @@ input {
 .clear p:hover {
   color: #000;
   text-decoration: underline;
+}
+
+label {
+  outline: none;
+}
+
+.line-through {
+  text-decoration: line-through;
 }
