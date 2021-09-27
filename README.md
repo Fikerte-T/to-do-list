@@ -5,7 +5,7 @@
 
 ![screenshots](./images/app_screenshot.png)
 ![screenshots](./images/app_screenshot_v2.png)
-![Live Demo](https://fikerte-t.github.io/to-do-list/dist/)
+[Live Demo](https://fikerte-t.github.io/to-do-list/dist/)
 
 ## Built With
 
