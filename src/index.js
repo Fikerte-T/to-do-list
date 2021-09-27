@@ -3,9 +3,9 @@ import {
   editTask, checkStorage, statusUpdate, addNewTask,
 } from './addRemoveItems.js';
 
-window.onload = () => {
+// window.onload = () => {
   addNewTask();
   checkStorage();
   editTask();
   statusUpdate();
-};
+// };
